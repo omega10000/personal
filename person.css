@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 100vh;
+    width: 200%;
+    background: linear-gradient(45deg,#FF0000,#00FF00,#5656E1,);
+}
